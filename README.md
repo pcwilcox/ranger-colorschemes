@@ -9,7 +9,7 @@ You can simply clone this repository into your ranger config directory, usually
 
 ```sh
 cd ~/.config/ranger
-git clone https://github.com/ranger/colorschemes.git
+git clone https://codeberg.org/ranger/colorschemes.git
 ```
 
 Creating a new colorscheme
