@@ -5,7 +5,7 @@ Usage
 -----
 
 You can simply clone this repository into your ranger config directory, usually
-`~/.config/ranger`, to get access to all the colorschemes.
+`~/.config/ranger`, to get access to all colorschemes present in this repository.
 
 ```sh
 cd ~/.config/ranger
